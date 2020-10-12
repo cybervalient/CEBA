@@ -1,0 +1,1 @@
+run(fitFunction,indsize,popSize,select,min,max,elitism,optimum)
